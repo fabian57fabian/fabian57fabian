@@ -3,10 +3,10 @@
   - Machine Learning / Deep Learning
   - Arduino / Raspberry
   - Video Editing
-- 🌱 I’m currently learning Edge Machine Learning
-- 👨‍💼 I'm currently working @MagentaSRL
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me: fabian_57@yahoo.it
+- 🌱 Currently learning Edge Machine Learning
+- 👨‍💼 Currently working @MagentaSRL
+- 💞️ Looking to collaborate on ML projects
+- 📫 How to reach me: fabiangreavu@gmail.com
 
 <!---
 fabian57fabian/fabian57fabian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

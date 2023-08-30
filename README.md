@@ -19,6 +19,8 @@
 ![DockerCompose](https://img.shields.io/badge/Docker_Compose--blue)
 
 ![Python3](https://img.shields.io/badge/python--blue)
+![Tensorflow](https://img.shields.io/badge/Tensorflow--blue)
+![Pytorch](https://img.shields.io/badge/Pytorch--blue)
 ![Flask](https://img.shields.io/badge/Flask--blue)
 
 ![Git](https://img.shields.io/badge/github-git-blue)

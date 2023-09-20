@@ -18,6 +18,9 @@
 ![Docker](https://img.shields.io/badge/Docker--blue)
 ![DockerCompose](https://img.shields.io/badge/Docker_Compose--blue)
 
+![Deep Learning](https://img.shields.io/badge/DeepLearning--violet)
+![Meta Learning](https://img.shields.io/badge/MetaLearning--violet)
+
 ![Python3](https://img.shields.io/badge/python--blue)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow--blue)
 ![Pytorch](https://img.shields.io/badge/Pytorch--blue)

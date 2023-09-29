@@ -31,10 +31,10 @@
 
 <h2>My GitHub Stats</h2>
 
-  [![fabian57fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabian57fabian&show_icons=true&theme=radical&hide=contribs)](https://github.com/fabian57fabian/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabian57fabian&layout=compact&theme=radical)](https://github.com/fabian57fabian/github-readme-stats)
+  [![fabian57fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabian57fabian&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabian57fabian&theme=radical)](https://github.com/fabian57fabian/github-readme-stats)
 
-  </div>
+</div>
 
 <!---
 fabian57fabian/fabian57fabian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@
   - Computer Vision
   - Grafana, Prometheus
   - Arduino / Raspberry
-- 🌱 Currently learning Edge Machine Learning
+- 🌱 Currently learning Meta Learning
 - 👨‍💼 Currently working @MagentaSRL
 - 💞️ Looking to collaborate on ML projects
 - 📫 How to reach me: fabiangreavu@gmail.com

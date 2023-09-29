@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @fabian57fabian
 - 👀 I’m interested in
-  - Machine Learning / Deep Learning
+  - Machine Learning / Deep Learning / Meta Learning
   - Computer Vision
   - Grafana, Prometheus
   - Arduino / Raspberry

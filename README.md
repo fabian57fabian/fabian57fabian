@@ -1,12 +1,12 @@
 
 - 👋 Hi, I’m @fabian57fabian
 - 👀 I’m interested in
-  - Machine Learning / Deep Learning / Meta Learning
-  - Computer Vision
+  - Machine Learning / Deep Learning / GenAI
+  - Computer Vision, Anomaly Detection, Natural Language
   - Grafana, Prometheus
   - Arduino / Raspberry
-- 🌱 Currently learning Meta Learning
-- 👨‍💼 Currently working @MagentaSRL
+- 🌱 Currently learning GenAI applications and AWS/GCP
+- 👨‍💼 Currently working as Freelancer, "Gear 57 di Fabian Greavu" in colab with @graftholders
 - 💞️ Looking to collaborate on ML projects
 - 📫 How to reach me: fabiangreavu@gmail.com
 

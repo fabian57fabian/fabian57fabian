@@ -29,6 +29,9 @@
 
 ![Git](https://img.shields.io/badge/github-git-blue)
 
+![GenAi](https://img.shields.io/badge/GenAI--blue)
+![RAG](https://img.shields.io/badge/RAG--blue)
+
 <h2>My GitHub Stats</h2>
 
   [![fabian57fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabian57fabian&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

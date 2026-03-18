@@ -32,6 +32,7 @@
 ![GenAI](https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-000000?style=for-the-badge&logo=agnoster&logoColor=white)
 
 **Backend & DevOps**
 
@@ -46,6 +47,7 @@
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Arize Phoenix](https://img.shields.io/badge/Arize_Phoenix-FF6B35?style=for-the-badge&logo=apache&logoColor=white)
 
 **Cloud**
 
